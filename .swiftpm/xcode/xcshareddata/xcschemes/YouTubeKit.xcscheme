@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "YouTubeKit"
-               BuildableName = "YouTubeKit"
-               BlueprintName = "YouTubeKit"
+               BlueprintIdentifier = "Search"
+               BuildableName = "Search"
+               BlueprintName = "Search"
                ReferencedContainer = "container:">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,9 +28,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "YouTubeKitTests"
-               BuildableName = "YouTubeKitTests"
-               BlueprintName = "YouTubeKitTests"
+               BlueprintIdentifier = "SearchTests"
+               BuildableName = "SearchTests"
+               BlueprintName = "SearchTests"
                ReferencedContainer = "container:">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,9 +47,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "YouTubeKitTests"
-               BuildableName = "YouTubeKitTests"
-               BlueprintName = "YouTubeKitTests"
+               BlueprintIdentifier = "SearchTests"
+               BuildableName = "SearchTests"
+               BlueprintName = "SearchTests"
                ReferencedContainer = "container:">
             </BuildableReference>
          </TestableReference>
@@ -75,9 +75,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "YouTubeKit"
-            BuildableName = "YouTubeKit"
-            BlueprintName = "YouTubeKit"
+            BlueprintIdentifier = "Search"
+            BuildableName = "Search"
+            BlueprintName = "Search"
             ReferencedContainer = "container:">
          </BuildableReference>
       </MacroExpansion>
