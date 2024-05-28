@@ -17,9 +17,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "YouTubeKitTests"
-               BuildableName = "YouTubeKitTests"
-               BlueprintName = "YouTubeKitTests"
+               BlueprintIdentifier = "SearchTests"
+               BuildableName = "SearchTests"
+               BlueprintName = "SearchTests"
                ReferencedContainer = "container:">
             </BuildableReference>
          </TestableReference>
