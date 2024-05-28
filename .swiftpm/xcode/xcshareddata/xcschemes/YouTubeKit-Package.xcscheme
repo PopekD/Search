@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "YouTubeKit"
-               BuildableName = "YouTubeKit"
-               BlueprintName = "YouTubeKit"
+               BlueprintIdentifier = "Search"
+               BuildableName = "Search"
+               BlueprintName = "Search"
                ReferencedContainer = "container:">
             </BuildableReference>
          </BuildActionEntry>
@@ -49,9 +49,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "YouTubeKit"
-            BuildableName = "YouTubeKit"
-            BlueprintName = "YouTubeKit"
+            BlueprintIdentifier = "Search"
+            BuildableName = "Search"
+            BlueprintName = "Search"
             ReferencedContainer = "container:">
          </BuildableReference>
       </MacroExpansion>
